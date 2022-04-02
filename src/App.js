@@ -8,6 +8,7 @@ import OrderReview from './Components/OrderReview/OrderReview';
 import Header from './Components/Header/Header';
 import About from './Components/About/About';
 import Home from './Components/Home/Home';
+import Grandpa from './Components/Grandpa/Grandpa';
 const CountContext=createContext();
 
 function App() {
@@ -19,7 +20,7 @@ function App() {
     <Route path="*" element={<NotFound></NotFound>}></Route>
     <Route path='/OrderReview' element={<OrderReview></OrderReview>}></Route>
     <Route path='/about' element={<About></About>}></Route> 
-    <Route></Route>
+    <Route path='/grandpa' element={<Grandpa></Grandpa>}></Route>
    </Routes> 
    </div>
     

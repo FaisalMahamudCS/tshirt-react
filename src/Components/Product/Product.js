@@ -6,7 +6,7 @@ const Product = ({handleAddToCart,tShirt}) => {
     return (
  <div className='
  '>
-        <div className='t-shirt 
+        <div className='t-shirt shadow-indigo-500/40 shadow-lg 
        '>
           
             <img src={picture} className='pt-12 pl-8' alt="" srcset="" />

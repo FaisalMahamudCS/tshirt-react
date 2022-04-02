@@ -25,7 +25,8 @@ setCart(remove)
     }
     return (
         <div className='container mx-auto  home-container'>
-            <div className=' tshirt-container'>
+            <div className='grid md:grid-cols-2 gap-8  lg:grid-cols-3
+            '>
             
 {
     tShirts.map(tShirt=><Product handleAddToCart={handleAddToCart} key={tShirt._id} tShirt={tShirt}></Product>)
