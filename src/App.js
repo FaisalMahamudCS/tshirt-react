@@ -1,24 +1,30 @@
 import logo from './logo.svg';
 import './App.css';
+import Tshirt from './Components/Tshirt/Tshirt';
+import { createContext } from 'react';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import NotFound from './Components/NotFound/NotFound';
+import OrderReview from './Components/OrderReview/OrderReview';
+import Header from './Components/Header/Header';
+import About from './Components/About/About';
+import Home from './Components/Home/Home';
+const CountContext=createContext();
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <div>
+<Header></Header>
+  <Routes>
+    <Route path='/' element={<Home></Home>}></Route>
+    <Route path="*" element={<NotFound></NotFound>}></Route>
+    <Route path='/OrderReview' element={<OrderReview></OrderReview>}></Route>
+    <Route path='/about' element={<About></About>}></Route> 
+    <Route></Route>
+   </Routes> 
+   </div>
+    
+  
+
   );
 }
 

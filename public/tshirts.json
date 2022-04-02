@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "623853b2614ad5aba311fdd1",
+    "index": 0,
+    "price": 14,
+    "picture": "https://cdn.shopify.com/s/files/1/0070/7032/files/tshirt-business8-min_838a2996-f195-4c1d-a4d1-034bc0a9a095.jpg?v=1597402071",
+    "name": "Just Chill",
+    "gender": "Just Chill"
+  },
+  {
+    "_id": "623853b2578e9e6ad1ae0dd5",
+    "index": 1,
+    "picture": "https://ctl.s6img.com/society6/img/NCfknCAaNN-HMUeO2uSv2xHsoic/h_264,w_264/tshirts/men/greybg/white/~artwork,bg_FFFFFFFF,fw_3300,fh_5100,iw_3300,ih_5100/s6-0039/a/17967429_5396250/~~/rodeo-cat-tshirts.jpg?wait=0&attempt=0",
+    "name": "Keep Coding",
+    "price": 27,
+    "gender": "Keep Coding"
+  },
+  {
+    "_id": "623853b21fb149d2ee7b76c7",
+    "index": 2,
+    "picture": "https://ctl.s6img.com/society6/img/hJhbG2Ei186Uu6cREazbC-rJhBA/h_264,w_264/tshirts/men/greybg/black/~artwork,bg_FFFFFFFF,fw_3306,fh_5106,fx_-317,fy_-87,iw_3800,ih_5066/s6-original-art-uploads/society6/uploads/misc/014549f6fdf44b55b42e9369b1bbdfc7/~~/begonia-maculata-bot-watercolor-tshirts.jpg?wait=0&attempt=0",
+    "name": "Black",
+    "price": 24,
+    "gender": ""
+  },
+  {
+    "_id": "623853b2e91c8de578c9245e",
+    "index": 3,
+    "picture": "https://5.imimg.com/data5/SH/GC/MY-8764775/mens-t-shirt-500x500.jpg",
+    "name": "Mix Yellow",
+    "price": 14,
+    "gender": "Mix Yellow"
+  },
+  {
+    "_id": "623853b2239582e48409ccc6",
+    "index": 4,
+    "price": 34,
+    "picture": "https://www.billbazar.com.bd/public/uploads/all/8hgD0lQGODVXbB5sokhvwr7mUNjBx7pEHusuyGZj.webp",
+    "name": "Bachelor",
+    "gender": "male"
+  },
+  {
+    "_id": "623853b2cdda0d5bc294f791",
+    "index": 5,
+    "picture": "https://m.media-amazon.com/images/I/61GMJ+3ekAS._AC_UL320_.jpg",
+    "name": "Right Price",
+    "price": 141,
+    "gender": "male"
+  },
+  {
+    "_id": "623853b2736f19fd4eb8d44a",
+    "index": 6,
+    "price": 41,
+    "picture": "https://ctl.s6img.com/society6/img/z--n3oamSSWgpNLJ379H0DjZzdw/w_700/tshirts/women/greybg/white/~artwork,bg_FFFFFFFF,fw_3300,fh_5100,iw_3300,ih_5100/s6-original-art-uploads/society6/uploads/misc/abf87c006b7a4e3391e2b27eaa2ee24a/~~/rainbow-cat2363650-tshirts.jpg?wait=0&attempt=0",
+    "name": "Black Skull",
+    "gender": "female"
+  }
+]
